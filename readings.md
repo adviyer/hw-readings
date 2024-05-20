@@ -1,6 +1,6 @@
 # Verilog
 ## Resources
-- [ ] Link: https://wiki.advaitiyer.com/verilog/additional-resources
+- [x] Link: https://wiki.advaitiyer.com/verilog/additional-resources
 
 # SystemVerilog
 ## Overview/Comparisons with Verilog
@@ -18,11 +18,13 @@
 ## OpenFPGA: Automated prototyping
 - [ ] Website: https://woset-workshop.github.io/WOSET2020.html#article-19
 ## HeAP: Analytical Placement for FPGAs
-- [ ] Paper: https://janders.eecg.utoronto.ca/pdfs/marcelfpl12.pdf
+- [x] Paper: https://janders.eecg.utoronto.ca/pdfs/marcelfpl12.pdf
+## Building FPGA processor on open source
+- [ ] Paper: https://woset-workshop.github.io/WOSET2021.html#article-1 
 
 # GPU
 ## Tiny GPU: Minimalistic GPU Implementation in SystemVerilog
-- [ ] Link: https://github.com/adam-maj/tiny-gpu 
+- [x] Link: https://github.com/adam-maj/tiny-gpu 
 
 # Development and DesignTools (for my reference)
 ## Verilator
@@ -41,3 +43,5 @@
 - [ ] Paper: https://spectreattack.com/spectre.pdf
 ## Meltdown Attacks
 - [ ] Paper: https://meltdownattack.com/meltdown.pdf 
+## Hacking into a Hardware Crypto Wallet
+- [x] Video: https://www.youtube.com/watch?v=dT9y-KQbqi4
